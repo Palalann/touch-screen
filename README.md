@@ -12,12 +12,11 @@ are shaded.
 The element shaded in black represents the centre point.
 ![image](https://github.com/Palalann/touch-screen/assets/98255085/73ce4cf1-8083-47af-bda2-a06789d1e926)
 
-A program is needed to find the coordinates (the row and column) of the centre point. The centre
-point on the diagram above is row 6, column 11.
 Assume:
 
 • the user may only touch one area at a time
 
 • screen rotation does not affect the touchscreen.
 
-The code is written to declare any neccessary fuction and procedure use for the program in Python.
+The code is written to declare any neccessary fuction and procedure use to find the coordinate of centre point in Python. For example, the coordinate of centre point in the image above is 6, 11. 
+
